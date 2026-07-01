@@ -1,0 +1,353 @@
+canonical_identifier: bkk:krp/KR6d0095/v1
+canonical_location: https://kanripo.org/bkk/KR6d0095/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 法華經指掌疏科文
+  identifiers:
+    alt_id:
+    - X33n0629
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X33/X33n0629.xml
+    old_id: X33n0629
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0095_000.yaml, hash: 'sha256:4d2aa0cd23c26d3a468479849c1e19a6e0bdd05622ce30eb14767e1591fc8100'}
+  - {seq: 1, filename: KR6d0095_001.yaml, hash: 'sha256:f32bc133c4e73fe13102884685f19180d53fd13f1fdd237c3590c9ee262bba1a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0095_000.markers.yaml, hash: 'sha256:00d6ec25f83f722749b8bcd55ead78ec2ef10fa49f8e0afd34c4d300d12affaf'}
+  - {seq: 1, role: markers, filename: assets/KR6d0095_001.markers.yaml, hash: 'sha256:22c908edbd573f7588efec3b2b94063ed1782feaaa5fad5df7f033e98d523d27'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0095_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 629-A 製疏始末
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0095_X_000-mulu-2
+    span:
+    - front
+    - 919
+    - 919
+  label: 別古凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0095_X_000-mulu-3
+    span:
+    - front
+    - 1987
+    - 1987
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0095_X_000-mulu-4
+    span:
+    - front
+    - 2265
+    - 2265
+  label: No. 629-B 法古提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13633
+  label: 法華指掌疏科判
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 弘傳序科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-2
+    span:
+    - body
+    - 432
+    - 432
+  label: 卷第一科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-3
+    span:
+    - body
+    - 457
+    - 457
+  label: 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-4
+    span:
+    - body
+    - 1545
+    - 1545
+  label: 方便品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-5
+    span:
+    - body
+    - 2851
+    - 2851
+  label: 卷第二科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-6
+    span:
+    - body
+    - 2860
+    - 2860
+  label: 譬喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-7
+    span:
+    - body
+    - 4408
+    - 4408
+  label: 信解品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-8
+    span:
+    - body
+    - 5262
+    - 5262
+  label: 卷第三科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-9
+    span:
+    - body
+    - 5271
+    - 5271
+  label: 藥草喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-10
+    span:
+    - body
+    - 5620
+    - 5620
+  label: 授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-11
+    span:
+    - body
+    - 5947
+    - 5947
+  label: 化城喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-12
+    span:
+    - body
+    - 6875
+    - 6875
+  label: 卷第四科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-13
+    span:
+    - body
+    - 6884
+    - 6884
+  label: 五百弟子受記品　授學無學人記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-14
+    span:
+    - body
+    - 7514
+    - 7514
+  label: 法師品　見寶塔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-15
+    span:
+    - body
+    - 8271
+    - 8271
+  label: 提婆達多品　持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-16
+    span:
+    - body
+    - 8709
+    - 8709
+  label: 卷第五科　卷第六科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-17
+    span:
+    - body
+    - 8718
+    - 8718
+  label: 安樂行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-18
+    span:
+    - body
+    - 9317
+    - 9317
+  label: 從地涌出品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-19
+    span:
+    - body
+    - 9809
+    - 9809
+  label: 如來壽量品　分別功德品　隨喜功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-20
+    span:
+    - body
+    - 10800
+    - 10800
+  label: 法師功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-21
+    span:
+    - body
+    - 11281
+    - 11281
+  label: 常不輕菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-22
+    span:
+    - body
+    - 11519
+    - 11519
+  label: 如來神力品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-23
+    span:
+    - body
+    - 11673
+    - 11673
+  label: 囑累品　藥王菩薩本事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-24
+    span:
+    - body
+    - 12163
+    - 12163
+  label: 卷第七科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-25
+    span:
+    - body
+    - 12172
+    - 12172
+  label: 妙音菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-26
+    span:
+    - body
+    - 12485
+    - 12485
+  label: 觀世音菩薩普門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0095_X_001-mulu-27
+    span:
+    - body
+    - 12972
+    - 12972
+  label: 陀羅尼品　妙莊嚴王本事品　普賢菩薩勸發品
+  type: mulu
+  level: 1
+hash: sha256:b07da71bc496b3e4fc50ebb5698d8af8eb1af4c9e770c8fb7224ba6c627dd27a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0095_000.yaml, hash: 'sha256:4d2aa0cd23c26d3a468479849c1e19a6e0bdd05622ce30eb14767e1591fc8100'}
-  - {seq: 1, filename: KR6d0095_001.yaml, hash: 'sha256:f32bc133c4e73fe13102884685f19180d53fd13f1fdd237c3590c9ee262bba1a'}
+  - {seq: 0, filename: KR6d0095_000.yaml, hash: 'sha256:4a599897f9b238177e99c66c48b1215e3c752ab888af478d1e8ade28d9657b2f'}
+  - {seq: 1, filename: KR6d0095_001.yaml, hash: 'sha256:a10baf75ab8293e957de0778d404d689f44ff4c60adafb2cc6fd5d4969c164e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0095_000.markers.yaml, hash: 'sha256:00d6ec25f83f722749b8bcd55ead78ec2ef10fa49f8e0afd34c4d300d12affaf'}
-  - {seq: 1, role: markers, filename: assets/KR6d0095_001.markers.yaml, hash: 'sha256:22c908edbd573f7588efec3b2b94063ed1782feaaa5fad5df7f033e98d523d27'}
+  - {seq: 0, role: markers, filename: assets/KR6d0095_000.markers.yaml, hash: 'sha256:3260d2db1265818870e6700064a883f41098b147267b1f2a56ed33fca74f768b'}
+  - {seq: 1, role: markers, filename: assets/KR6d0095_001.markers.yaml, hash: 'sha256:77b1e5c44f1f228a633b8061d080a88228ac4238bd837af894f66e26a7031b77'}
 table_of_contents:
 - ref:
     seq: 0
@@ -347,7 +347,4 @@ table_of_contents:
   label: 陀羅尼品　妙莊嚴王本事品　普賢菩薩勸發品
   type: mulu
   level: 1
-hash: sha256:b07da71bc496b3e4fc50ebb5698d8af8eb1af4c9e770c8fb7224ba6c627dd27a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:157b4480353f1b50973dc01d7a837a165934fd40863dd6a3f78b856d53875381

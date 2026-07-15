@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0095/v1
 canonical_location: https://kanripo.org/bkk/KR6d0095/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法華經指掌疏科文
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0095_000.yaml, hash: 'sha256:4a599897f9b238177e99c66c48b1215e3c752ab888af478d1e8ade28d9657b2f'}
-  - {seq: 1, filename: KR6d0095_001.yaml, hash: 'sha256:a10baf75ab8293e957de0778d404d689f44ff4c60adafb2cc6fd5d4969c164e5'}
+  - {seq: 0, filename: KR6d0095_000.yaml, hash: 'sha256:4d435e2a0dc5437cfbccb0bd34ef1fdffd03f466b075c7ed3f12c96902ab60dc'}
+  - {seq: 1, filename: KR6d0095_001.yaml, hash: 'sha256:9619b4b1ccb38977c1be264bd47571be9c44d1551394cb39c701b2ee4afac867'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0095_000.markers.yaml, hash: 'sha256:3260d2db1265818870e6700064a883f41098b147267b1f2a56ed33fca74f768b'}
-  - {seq: 1, role: markers, filename: assets/KR6d0095_001.markers.yaml, hash: 'sha256:77b1e5c44f1f228a633b8061d080a88228ac4238bd837af894f66e26a7031b77'}
+  - {seq: 0, role: markers, filename: assets/KR6d0095_000.markers.yaml, hash: 'sha256:f0780bcd662d1bf19051412aeb5aca41a73ebc4f95eeca6111ad4b5197da7f9f'}
+  - {seq: 1, role: markers, filename: assets/KR6d0095_001.markers.yaml, hash: 'sha256:c6d09269732aed047bb2667d09b63827eff7f6d8f7754b856a8b2f699f84b066'}
 table_of_contents:
 - ref:
     seq: 0
@@ -347,4 +347,7 @@ table_of_contents:
   label: 陀羅尼品　妙莊嚴王本事品　普賢菩薩勸發品
   type: mulu
   level: 1
-hash: sha256:157b4480353f1b50973dc01d7a837a165934fd40863dd6a3f78b856d53875381
+hash: sha256:083ba1fbc92a7d1dc2c62d95c9f308a4fd2c1f8d1c5fb86e1492dbf4aa961f28
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

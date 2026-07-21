@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0095_000-X.yaml, hash: 'sha256:4a599897f9b238177e99c66c48b1215e3c752ab888af478d1e8ade28d9657b2f'}
+  - {seq: 0, filename: KR6d0095_000-X.yaml, hash: 'sha256:7e513b7d71a9af42e05e755efec0bf9e107498801b69c22d2b363818ab9ea7ef'}
   - {seq: 1, filename: KR6d0095_001-X.yaml, hash: 'sha256:a10baf75ab8293e957de0778d404d689f44ff4c60adafb2cc6fd5d4969c164e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0095_000-X.markers.yaml, hash: 'sha256:a3d385bdfa875e4697ea6e3fa353063544b73bc3c8d04b13138afef7a71d5d5b'}
+  - {seq: 0, role: markers, filename: assets/KR6d0095_000-X.markers.yaml, hash: 'sha256:eaf7917e45400448cedff2847bfc9b92aa690a1b26bfa74b7c96e845f54d1c03'}
   - {seq: 1, role: markers, filename: assets/KR6d0095_001-X.markers.yaml, hash: 'sha256:8b8401d5427672894087b0cda5d9eaeecf5a822973cc53e0d185e257af2b101d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0095_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 629-A 製疏始末
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0095_X_000-mulu-2
     span:
-    - front
+    - body
     - 919
     - 919
   label: 別古凡例
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0095_X_000-mulu-3
     span:
-    - front
+    - body
     - 1987
     - 1987
   label: 目次
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0095_X_000-mulu-4
     span:
-    - front
+    - body
     - 2265
     - 2265
   label: No. 629-B 法古提綱
@@ -345,4 +345,4 @@ table_of_contents:
   label: 陀羅尼品　妙莊嚴王本事品　普賢菩薩勸發品
   type: mulu
   level: 1
-hash: sha256:e2de1cf8098b7cde553fde551dba8d0c6a2078616f99dd5e5dce2b0b8b0ed2a4
+hash: sha256:67fa1b836152eca1c88588caefdc2505c0693e6f6f213710af2d1456a8e9227e
